@@ -1,0 +1,73 @@
+#headerH1 {
+    text-align: center;
+}
+
+#headerH2 {
+    text-align: center;
+}
+
+#mainH3 {
+    text-align: center;
+}
+
+#alphabetA {
+    border: solid black 1px;
+}
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    background-color: aquamarine;
+}
+.btn:hover {
+    background-color: blueviolet;
+}
+
+
+#chosenWord {
+    font-size: 16px;
+    padding: 14px 28px;
+    border: none;
+    background-color: inherit;
+    text-align: center;
+    font-size: 100px;
+   
+    word-spacing: 8px;
+    letter-spacing: 8px;
+    
+
+
+    /* background-color: aquamarine; */
+
+}
+
+#firstLetterP {
+    text-decoration: underline;
+    
+}
+
+
+
+#btnsDiv {
+    text-align: center;
+    
+}
+
+.clueAndReset {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    background-color: rgb(214, 145, 25);
+}
+
+.clueAndReset:hover {
+    background-color: blueviolet
+}
+
